@@ -246,4 +246,4 @@ This repository serves as the official landing page for Vampire Survivors. The s
 **Get the most recent version of Vampire Survivors today!**
 
 ---
-**Last updated:** 2026-10-05 07:50:40 UTC
+**Last updated:** 2026-10-05 16:32:03 UTC
